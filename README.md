@@ -6,4 +6,12 @@
 
 <br>
 
-> [김민수(RealMinsu)[(https://github.com/RealMinsu)
+> [김민수(RealMinsu)](https://github.com/RealMinsu)
+
+<br>
+
+> [황인찬(HwangInChan)](https://github.com/HwangInChan)
+
+<br>
+
+> [강태희(redface0212)](https://github.com/redface0212)
